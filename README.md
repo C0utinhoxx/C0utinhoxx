@@ -4,7 +4,14 @@
 
 - 🔭 Estudando Ciência da Computação na **FIAP**
 - 💻 Sempre aprendendo novas tecnologias e construindo projetos
-- 📫 Como me chegar: **me chame por aqui!**
+- 🌐 **Portfólio:** [porti-xi.vercel.app](https://porti-xi.vercel.app/index.html#topo)
+- 📫 Como me chegar: **[Portfolio](https://porti-xi.vercel.app/index.html#topo) • me chame por aqui!**
+
+---
+
+### 🔗 Portfólio
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-porti--xi.vercel.app-0ABAB5?style=for-the-badge&logo=vercel&logoColor=white)](https://porti-xi.vercel.app/index.html#topo)
 
 ---
 
