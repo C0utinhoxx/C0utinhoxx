@@ -76,4 +76,4 @@
 
 ### 🐍 Minhas contribuições
 
-![Snake animation](https://raw.githubusercontent.com/C0utinhoxx/C0utinhoxx/output/github-contribution-grid-snake.svg?v=1)
+![Snake animation](https://raw.githubusercontent.com/C0utinhoxx/C0utinhoxx/output/github-contribution-grid-snake-dark.svg)
